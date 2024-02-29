@@ -5,6 +5,6 @@
     <title>Mon application Tomcat</title>
 </head>
 <body>
-    <h1>Bienvenue sur mon application Tomcat v2!</h1>
+    <h1>Bienvenue sur mon application Tomcat v3!</h1>
 </body>
 </html>
