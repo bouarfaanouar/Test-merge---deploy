@@ -1,0 +1,6 @@
+---
+- name: Deploy Apache and index.html
+  hosts: 172.16.211.128
+  become: true
+  roles:
+    - apache_deploy
